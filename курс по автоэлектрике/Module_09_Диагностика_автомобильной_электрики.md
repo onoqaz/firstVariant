@@ -221,6 +221,8 @@ Porsche использует **PIWIS Tester** для диагностики и �
 
 **Программы для схем:** ETKA/ETOS (VAG), EPC/WIS (Mercedes), TIS/Techinfo (Toyota), ETK (BMW), Ford ETIS, Hyundai/Kia GDS, Mitchell/Alldata/Autodata (универсальные)
 
+> **См. также:** Модуль 18 — подробное руководство по работе с электрическими схемами, обозначениям DIN 72552, программам и практическим приемам чтения схем.
+
 ### Поиск утечки тока (Parasitic Draw Test)
 
 **Методика "Амперметр в разрыве минуса":**
